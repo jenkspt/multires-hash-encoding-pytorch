@@ -11,3 +11,7 @@ This is an unofficial pytorch implementation of the key datastructures from [Ins
     month = jan
 }
 ```
+
+For an example of how to create a drop in replacement for standard NeRF models, take a look at:
+- [https://github.com/jenkspt/NeuS/tree/hash](https://github.com/jenkspt/NeuS/tree/hash)
+- [https://github.com/jenkspt/NeuS/blob/hash/models/hash_fields.py](https://github.com/jenkspt/NeuS/blob/hash/models/hash_fields.py)
